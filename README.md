@@ -49,7 +49,7 @@ Estamos sempre abertos a sugestões e contribuições para melhorar o nosso jogo
 
 ## Suporte
 
-Se encontrar qualquer problema ou tiver dúvidas sobre o jogo, por favor, entre em contato com nossa equipe de suporte através do email: suporte@jogoeducativo.com
+Se encontrar qualquer problema ou tiver dúvidas sobre o jogo, por favor, entre em contato com nossa equipe de suporte através do email: jojojosephdacostaribeiro@gmail.com
 
 ## Agradecimentos
 
