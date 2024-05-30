@@ -22,7 +22,7 @@ Nosso objetivo é proporcionar um ambiente educacional envolvente onde as crian�
 
 1. **Ache as letras**: 
 2. **Memoria vogal**: 
-3. **Palavrando **: 
+3. **Palavrando**: 
 4. **Quebra cabeça das letras**:
 5. **Quebra cabeça das silabas**:
 6. **Questionario das silabas**
