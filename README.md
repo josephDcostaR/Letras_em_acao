@@ -20,13 +20,13 @@ Nosso objetivo é proporcionar um ambiente educacional envolvente onde as crian�
 
 ## Minigames Incluídos
 
-1. **Ache as letras**: 
-2. **Memoria vogal**: 
-3. **Palavrando**: 
-4. **Quebra cabeça das letras**:
-5. **Quebra cabeça das silabas**:
-6. **Questionario das silabas**
-7. **Sonletrando**:
+1. **Ache as letras**: Dentro de um quadro com varias letras, encontre as letras corretas para avançar.
+2. **Memoria vogal**: Dentro do baralho de cartas encontre os pares de cada letra.
+3. **Palavrando**: Use as letras para formar a palavra da imagem.
+4. **Quebra cabeça das letras**: Arraste as letras para os lugares corretos.
+5. **Quebra cabeça das silabas**: Arraste as Sílabas para os lugares corretos.
+6. **Questionario das silabas**: Use as sílabas para completar a palavra da imagem.
+7. **Sonletrando**: Use sua voz pra dizer qual é a palavra da imagem.
 
 ## Como Jogar
 
