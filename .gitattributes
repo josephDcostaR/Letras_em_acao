@@ -1,0 +1,6 @@
+# Arquivo .gitattributes
+* text=auto
+*.json text eol=lf
+*.cs text eol=lf
+*.unity text eol=lf
+*.meta text eol=lf
