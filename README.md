@@ -30,6 +30,8 @@ Nosso objetivo é proporcionar um ambiente educacional envolvente onde as crian�
 
 ## Como Jogar
 
+Build pra dowload disponivel neste link - https://drive.google.com/file/d/1kvr6ayEA8nASEoNdNGq6nlb3LhP_-ZVd/view?usp=sharing
+
 1. **Instalação**: Baixe e instale o jogo a partir da nossa página oficial ou loja de aplicativos.
 2. **Seleção de Minigame**: Na tela inicial, escolha um dos minigames disponíveis.
 3. **Interação**: Siga as instruções de cada minigame para interagir e completar as tarefas propostas.
