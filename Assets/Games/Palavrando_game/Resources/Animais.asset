@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3864afe14b6a98847a4f31abf288fd4a, type: 3}
+  m_Name: Animais
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 251a9970030cdaf48b1e1d88cbd04662, type: 3}
+    answer: alce
+  - questionImage: {fileID: 21300000, guid: a98ea9c3439b6b646b7caecdf3775df3, type: 3}
+    answer: baleia
+  - questionImage: {fileID: 21300000, guid: 90174773cd97fbd47b38b06f60cc77c8, type: 3}
+    answer: boi
+  - questionImage: {fileID: 21300000, guid: 030d8b4fb0077b747ae6d389b7b29f26, type: 3}
+    answer: cabra
+  - questionImage: {fileID: 21300000, guid: 8696ad7af81be4b4694b8e018c737766, type: 3}
+    answer: cachorro
+  - questionImage: {fileID: 21300000, guid: 842f93a3b57eba848ab6dbcda9b3d237, type: 3}
+    answer: caracol
+  - questionImage: {fileID: 21300000, guid: 451abf3a9c5fc76419f7187f0d6f11af, type: 3}
+    answer: coelho
+  - questionImage: {fileID: 21300000, guid: 40df11d2b842b624b9e71e42759a359c, type: 3}
+    answer: coruja
+  - questionImage: {fileID: 21300000, guid: cc75aa6ac4b2afa4a92e05f0622265fe, type: 3}
+    answer: galinha
+  - questionImage: {fileID: 21300000, guid: 72920a0dc47f44d46a2c6dec640a69d5, type: 3}
+    answer: gato
+  - questionImage: {fileID: 21300000, guid: 9d71c097a5aee414e9c155100b8c1f57, type: 3}
+    answer: girafa
+  - questionImage: {fileID: 21300000, guid: d62ab426ab0b92c40aeb8c469126ff03, type: 3}
+    answer: "le\xE3o"
+  - questionImage: {fileID: 21300000, guid: 069e2779bd32bbe49aa9e4e63a084252, type: 3}
+    answer: lobo
+  - questionImage: {fileID: 21300000, guid: dfd342724e3c7fc40b3e6b5ba3df2780, type: 3}
+    answer: macaco
+  - questionImage: {fileID: 21300000, guid: 1699a0e2680bf8d47bf8e1b3a0fb35d2, type: 3}
+    answer: ovelha
+  - questionImage: {fileID: 21300000, guid: 6461451980bc565468abf19e73f4c1fe, type: 3}
+    answer: papagaio
+  - questionImage: {fileID: 21300000, guid: a7d10b44df7ca514898ef2c4433aab33, type: 3}
+    answer: polvo
+  - questionImage: {fileID: 21300000, guid: 0a681fb11eff4a140b2c29dcaa02de8b, type: 3}
+    answer: porco
+  - questionImage: {fileID: 21300000, guid: 5dbf7fe3051d1c24dbbdf0fb548f8c5d, type: 3}
+    answer: raposa
+  - questionImage: {fileID: 21300000, guid: 0a3563148e086634b84db168c7dbeee4, type: 3}
+    answer: tartaruga
+  - questionImage: {fileID: 21300000, guid: 0ed0efd9c981f4e409608845a818d45a, type: 3}
+    answer: "tubar\xE3o"
+  - questionImage: {fileID: 21300000, guid: 1b6e7e4339b45804a83ebd8d99b7859b, type: 3}
+    answer: tucano
+  - questionImage: {fileID: 21300000, guid: 19df307dd60862140a52996c7e7d5b8d, type: 3}
+    answer: vaca

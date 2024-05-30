@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3864afe14b6a98847a4f31abf288fd4a, type: 3}
+  m_Name: Frutas
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 0b265d58e719a24438e47a264a29e672, type: 3}
+    answer: abacate
+  - questionImage: {fileID: 21300000, guid: c961fd4bad052fe4984769b3bf5c5bba, type: 3}
+    answer: acerola
+  - questionImage: {fileID: 21300000, guid: ab003e3a63942844ba9706b9df85379a, type: 3}
+    answer: banana
+  - questionImage: {fileID: 21300000, guid: 7eff9259d229e6447a303e77fb0e7c61, type: 3}
+    answer: cacau
+  - questionImage: {fileID: 21300000, guid: d801b226d214b8847a130b60693e7890, type: 3}
+    answer: caju
+  - questionImage: {fileID: 21300000, guid: 6d1b3c3cfaebf8040b95504f560e4ffe, type: 3}
+    answer: coco
+  - questionImage: {fileID: 21300000, guid: 3c91ffbc2cba3574a8ea5575844c39e2, type: 3}
+    answer: goiaba
+  - questionImage: {fileID: 21300000, guid: b3e48bbb28ee0234399f9cc2af14e128, type: 3}
+    answer: jaca
+  - questionImage: {fileID: 21300000, guid: bc6e017894c5b144e9a30472516c2d54, type: 3}
+    answer: laranja
+  - questionImage: {fileID: 21300000, guid: 526b8e7580f448147a923136a38481b6, type: 3}
+    answer: "lim\xE3o"
+  - questionImage: {fileID: 21300000, guid: d807e90d678a59c4b8f12a9ba345cd22, type: 3}
+    answer: "mam\xE3o"
+  - questionImage: {fileID: 21300000, guid: d6a2914b4a626d442b1c394350c0abf7, type: 3}
+    answer: manga
+  - questionImage: {fileID: 21300000, guid: 9a67a5c8f04906d4697d0f764d6e2eda, type: 3}
+    answer: "maracuj\xE1"
+  - questionImage: {fileID: 21300000, guid: 953ed3bf09bbf704c8ed1d754e64f1ce, type: 3}
+    answer: marmelo
+  - questionImage: {fileID: 21300000, guid: d723a79bed641e04993bb7123d3aa12e, type: 3}
+    answer: "ma\xE7\xE3"
+  - questionImage: {fileID: 21300000, guid: b0d60b868803bf44eb86efe1827d32b1, type: 3}
+    answer: melancia
+  - questionImage: {fileID: 21300000, guid: e0af2173e3f653b4fb9181c5d1f9e72e, type: 3}
+    answer: "mel\xE3o"
+  - questionImage: {fileID: 21300000, guid: 3a1ffe2df460d0d4ebdcc12230309eb1, type: 3}
+    answer: morango
+  - questionImage: {fileID: 21300000, guid: 17773dd90206a2247830ae1d39ee9a25, type: 3}
+    answer: pera
+  - questionImage: {fileID: 21300000, guid: f95467fe6aeda3e4c943025216b34f4f, type: 3}
+    answer: "p\xEAssego"
+  - questionImage: {fileID: 21300000, guid: ec33460ba0ba2a645b9414a757f80c07, type: 3}
+    answer: tangerina
+  - questionImage: {fileID: 21300000, guid: 6f3fcfecf70aa3940a542cd3a2eadc18, type: 3}
+    answer: uva
