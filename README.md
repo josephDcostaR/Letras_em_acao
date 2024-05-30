@@ -45,6 +45,15 @@ Build pra dowload disponivel neste link - https://drive.google.com/file/d/1kvr6a
 - **Gráficos**: GPU com 512MB de VRAM
 - **Armazenamento**: 200 MB de espaço disponível
 
+## Assests Externos utilizados:
+
+- **2D Casual UI HD**:
+-  link: https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080
+-  by MiMU STUDIO
+-  **Mobile Speech Recognize**:
+-  link: https://assetstore.unity.com/packages/tools/audio/mobile-speech-recognizer-73036
+-  by Piotr Zmudzinski
+
 ## Contribuições
 
 Estamos sempre abertos a sugestões e contribuições para melhorar o nosso jogo. Se você é desenvolvedor, designer ou educador e gostaria de colaborar, sinta-se à vontade para entrar em contato conosco.
