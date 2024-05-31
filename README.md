@@ -1,4 +1,4 @@
-# Jogo Educativo de Letras e Palavras
+# Prototipo de Jogo Educativo: Letras em Ação
 
 Bem-vindo ao nosso jogo educativo! Este é um projeto criado para ajudar crianças a aprenderem letras e palavras de uma maneira divertida e interativa. Desenvolvido na Unity, nosso jogo é uma coleção de minigames que se concentram em ensinar e reforçar habilidades de leitura e reconhecimento de palavras.
 
